@@ -1,0 +1,723 @@
+{
+    "meta_data": {
+        "time_signature": {
+            "numerator": 3,
+            "denominator": 4
+        },
+        "time_per_beat": 0.5
+    },
+    "measure[0]": [
+        {
+            "key": "B/4",
+            "duration": "2r",
+            "connect": false,
+            "actual_play_time": 2.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "B/4",
+            "duration": "4r",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[1]": [
+        {
+            "key": "E/4",
+            "duration": "2",
+            "connect": false,
+            "actual_play_time": 2.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[2]": [
+        {
+            "key": "D/5",
+            "duration": "2",
+            "connect": true,
+            "actual_play_time": 3.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "D/5",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[3]": [
+        {
+            "key": "C/5",
+            "duration": "2",
+            "connect": false,
+            "actual_play_time": 2.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[4]": [
+        {
+            "key": "F/4",
+            "duration": "2",
+            "connect": true,
+            "actual_play_time": 3.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "F/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[5]": [
+        {
+            "key": "E/4",
+            "duration": "2",
+            "connect": false,
+            "actual_play_time": 2.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "E/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[6]": [
+        {
+            "key": "E/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "F/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[7]": [
+        {
+            "key": "A/4",
+            "duration": "2",
+            "connect": true,
+            "actual_play_time": 3.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "A/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[8]": [
+        {
+            "key": "G/4",
+            "duration": "2",
+            "connect": true,
+            "actual_play_time": 3.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[9]": [
+        {
+            "key": "E/4",
+            "duration": "2",
+            "connect": false,
+            "actual_play_time": 2.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[10]": [
+        {
+            "key": "D/5",
+            "duration": "2",
+            "connect": true,
+            "actual_play_time": 3.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "D/5",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[11]": [
+        {
+            "key": "C/5",
+            "duration": "2",
+            "connect": false,
+            "actual_play_time": 2.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[12]": [
+        {
+            "key": "F/4",
+            "duration": "2",
+            "connect": true,
+            "actual_play_time": 3.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "F/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[13]": [
+        {
+            "key": "E/4",
+            "duration": "2",
+            "connect": false,
+            "actual_play_time": 2.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[14]": [
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "A/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "B/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[15]": [
+        {
+            "key": "C/5",
+            "duration": "2",
+            "connect": true,
+            "actual_play_time": 3.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "C/5",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[16]": [
+        {
+            "key": "C/5",
+            "duration": "2",
+            "connect": true,
+            "actual_play_time": 3.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "C/5",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[17]": [
+        {
+            "key": "D/5",
+            "duration": "8",
+            "connect": false,
+            "actual_play_time": 0.5,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "B/4",
+            "duration": "4r",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "G/4",
+            "duration": "8",
+            "connect": false,
+            "actual_play_time": 0.5,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[18]": [
+        {
+            "key": "B/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "A/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[19]": [
+        {
+            "key": "E/4",
+            "duration": "2",
+            "connect": false,
+            "actual_play_time": 2.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[20]": [
+        {
+            "key": "C/5",
+            "duration": "2",
+            "connect": true,
+            "actual_play_time": 3.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "C/5",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[21]": [
+        {
+            "key": "A/4",
+            "duration": "2",
+            "connect": false,
+            "actual_play_time": 2.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "C/5",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[22]": [
+        {
+            "key": "D/5",
+            "duration": "2",
+            "connect": false,
+            "actual_play_time": 2.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "C/5",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[23]": [
+        {
+            "key": "B/4",
+            "duration": "2",
+            "connect": true,
+            "actual_play_time": 3.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "B/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[24]": [
+        {
+            "key": "G/4",
+            "duration": "2",
+            "connect": true,
+            "actual_play_time": 3.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[25]": [
+        {
+            "key": "E/4",
+            "duration": "2",
+            "connect": false,
+            "actual_play_time": 2.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[26]": [
+        {
+            "key": "D/5",
+            "duration": "2",
+            "connect": true,
+            "actual_play_time": 3.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "D/5",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[27]": [
+        {
+            "key": "C/5",
+            "duration": "2",
+            "connect": false,
+            "actual_play_time": 2.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[28]": [
+        {
+            "key": "F/4",
+            "duration": "2",
+            "connect": true,
+            "actual_play_time": 3.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "F/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[29]": [
+        {
+            "key": "E/4",
+            "duration": "2",
+            "connect": false,
+            "actual_play_time": 2.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[30]": [
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "A/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "B/4",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[31]": [
+        {
+            "key": "C/5",
+            "duration": "2",
+            "connect": true,
+            "actual_play_time": 3.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "C/5",
+            "duration": "4",
+            "connect": false,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[32]": [
+        {
+            "key": "C/5",
+            "duration": "2",
+            "connect": false,
+            "actual_play_time": 2.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "B/4",
+            "duration": "4r",
+            "connect": false,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ]
+}

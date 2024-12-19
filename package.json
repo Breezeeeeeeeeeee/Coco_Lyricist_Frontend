@@ -1,0 +1,27 @@
+{
+  "name": "demo01",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tonejs/midi": "^2.0.28",
+    "axios": "^1.7.7",
+    "midi-parser-js": "^4.0.4",
+    "midi.js": "^0.3.1",
+    "pinia": "^2.2.6",
+    "soundfont-player": "^0.12.0",
+    "vexflow": "^4.2.5",
+    "vue": "^3.5.12",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "vite": "^5.4.10",
+    "vite-plugin-vue-devtools": "^7.5.4"
+  }
+}

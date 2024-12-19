@@ -1,0 +1,567 @@
+{
+    "note[0]": {
+        "lyrics": "i've",
+        "pronunciation": "aɪv",
+        "prosody": "weak"
+    },
+    "note[1]": {
+        "lyrics": "seen",
+        "pronunciation": "'siːn",
+        "prosody": "strong"
+    },
+    "note[2]": {
+        "lyrics": "your",
+        "pronunciation": "jɔːr",
+        "prosody": "weak"
+    },
+    "note[3]": {
+        "lyrics": "dreams",
+        "pronunciation": "'driːmz",
+        "prosody": "strong"
+    },
+    "note[4]": {
+        "lyrics": "all",
+        "pronunciation": "'ɔːl",
+        "prosody": "strong"
+    },
+    "note[5]": {
+        "lyrics": "fal",
+        "pronunciation": "'fɑ",
+        "prosody": "strong"
+    },
+    "note[6]": {
+        "lyrics": "ling",
+        "pronunciation": "lɪŋ",
+        "prosody": "weak"
+    },
+    "note[7]": {
+        "lyrics": "the",
+        "pronunciation": "ðə",
+        "prosody": "weak"
+    },
+    "note[8]": {
+        "lyrics": "mo",
+        "pronunciation": "'moʊ",
+        "prosody": "strong"
+    },
+    "note[9]": {
+        "lyrics": "ment",
+        "pronunciation": "mənt",
+        "prosody": "weak"
+    },
+    "note[10]": {
+        "lyrics": "we",
+        "pronunciation": "'wiː",
+        "prosody": "strong"
+    },
+    "note[11]": {
+        "lyrics": "met",
+        "pronunciation": "'mɛt",
+        "prosody": "strong"
+    },
+    "note[12]": {
+        "lyrics": "up",
+        "pronunciation": "əp",
+        "prosody": "weak"
+    },
+    "note[13]": {
+        "lyrics": "ne",
+        "pronunciation": "'nɛ",
+        "prosody": "strong"
+    },
+    "note[14]": {
+        "lyrics": "ver",
+        "pronunciation": "vɛː",
+        "prosody": "weak"
+    },
+    "note[15]": {
+        "lyrics": "felt",
+        "pronunciation": "'fɛlt",
+        "prosody": "strong"
+    },
+    "note[16]": {
+        "lyrics": "like",
+        "pronunciation": "'laɪk",
+        "prosody": "strong"
+    },
+    "note[17]": {
+        "lyrics": "this",
+        "pronunciation": "ðɪs",
+        "prosody": "weak"
+    },
+    "note[18]": {
+        "lyrics": "cause",
+        "pronunciation": "'kɑz",
+        "prosody": "strong"
+    },
+    "note[19]": {
+        "lyrics": "i",
+        "pronunciation": "'aɪ",
+        "prosody": "strong"
+    },
+    "note[20]": {
+        "lyrics": "couldn",
+        "pronunciation": "'kʊ",
+        "prosody": "strong"
+    },
+    "note[21]": {
+        "lyrics": "'t",
+        "pronunciation": "dənt",
+        "prosody": "weak"
+    },
+    "note[22]": {
+        "lyrics": "see",
+        "pronunciation": "'siː",
+        "prosody": "strong"
+    },
+    "note[23]": {
+        "lyrics": "the",
+        "pronunciation": "ðə",
+        "prosody": "weak"
+    },
+    "note[24]": {
+        "lyrics": "mo",
+        "pronunciation": "'moʊ",
+        "prosody": "strong"
+    },
+    "note[25]": {
+        "lyrics": "ment",
+        "pronunciation": "mənt",
+        "prosody": "weak"
+    },
+    "note[26]": {
+        "lyrics": "we",
+        "pronunciation": "'wiː",
+        "prosody": "strong"
+    },
+    "note[27]": {
+        "lyrics": "met",
+        "pronunciation": "'mɛt",
+        "prosody": "strong"
+    },
+    "note[28]": {
+        "lyrics": "up",
+        "pronunciation": "əp",
+        "prosody": "weak"
+    },
+    "note[29]": {
+        "lyrics": "did",
+        "pronunciation": "'dɪ",
+        "prosody": "strong"
+    },
+    "note[30]": {
+        "lyrics": "n't",
+        "pronunciation": "dənt",
+        "prosody": "weak"
+    },
+    "note[31]": {
+        "lyrics": "seem",
+        "pronunciation": "'siːm",
+        "prosody": "strong"
+    },
+    "note[32]": {
+        "lyrics": "cause",
+        "pronunciation": "'kɑz",
+        "prosody": "strong"
+    },
+    "note[33]": {
+        "lyrics": "we",
+        "pronunciation": "'wiː",
+        "prosody": "strong"
+    },
+    "note[34]": {
+        "lyrics": "could",
+        "pronunciation": "'kʊd",
+        "prosody": "strong"
+    },
+    "note[35]": {
+        "lyrics": "make",
+        "pronunciation": "'meɪk",
+        "prosody": "strong"
+    },
+    "note[36]": {
+        "lyrics": "you",
+        "pronunciation": "juː",
+        "prosody": "weak"
+    },
+    "note[37]": {
+        "lyrics": "whole",
+        "pronunciation": "'hoʊl",
+        "prosody": "strong"
+    },
+    "note[38]": {
+        "lyrics": "world",
+        "pronunciation": "'wɛːld",
+        "prosody": "strong"
+    },
+    "note[39]": {
+        "lyrics": "i've",
+        "pronunciation": "aɪv",
+        "prosody": "weak"
+    },
+    "note[40]": {
+        "lyrics": "seen",
+        "pronunciation": "'siːn",
+        "prosody": "strong"
+    },
+    "note[41]": {
+        "lyrics": "your",
+        "pronunciation": "jɔːr",
+        "prosody": "weak"
+    },
+    "note[42]": {
+        "lyrics": "dreams",
+        "pronunciation": "'driːmz",
+        "prosody": "strong"
+    },
+    "note[43]": {
+        "lyrics": "all",
+        "pronunciation": "'ɔːl",
+        "prosody": "strong"
+    },
+    "note[44]": {
+        "lyrics": "fal",
+        "pronunciation": "'fɑ",
+        "prosody": "strong"
+    },
+    "note[45]": {
+        "lyrics": "ling",
+        "pronunciation": "lɪŋ",
+        "prosody": "weak"
+    },
+    "note[46]": {
+        "lyrics": "the",
+        "pronunciation": "ðə",
+        "prosody": "weak"
+    },
+    "note[47]": {
+        "lyrics": "mo",
+        "pronunciation": "'moʊ",
+        "prosody": "strong"
+    },
+    "note[48]": {
+        "lyrics": "ment",
+        "pronunciation": "mənt",
+        "prosody": "weak"
+    },
+    "note[49]": {
+        "lyrics": "we",
+        "pronunciation": "'wiː",
+        "prosody": "strong"
+    },
+    "note[50]": {
+        "lyrics": "met",
+        "pronunciation": "'mɛt",
+        "prosody": "strong"
+    },
+    "note[51]": {
+        "lyrics": "up",
+        "pronunciation": "əp",
+        "prosody": "weak"
+    },
+    "note[52]": {
+        "lyrics": "ne",
+        "pronunciation": "'nɛ",
+        "prosody": "strong"
+    },
+    "note[53]": {
+        "lyrics": "ver",
+        "pronunciation": "vɛː",
+        "prosody": "weak"
+    },
+    "note[54]": {
+        "lyrics": "felt",
+        "pronunciation": "'fɛlt",
+        "prosody": "strong"
+    },
+    "note[55]": {
+        "lyrics": "like",
+        "pronunciation": "'laɪk",
+        "prosody": "strong"
+    },
+    "note[56]": {
+        "lyrics": "this",
+        "pronunciation": "ðɪs",
+        "prosody": "weak"
+    },
+    "note[57]": {
+        "lyrics": "cause",
+        "pronunciation": "'kɑz",
+        "prosody": "strong"
+    },
+    "note[58]": {
+        "lyrics": "i",
+        "pronunciation": "'aɪ",
+        "prosody": "strong"
+    },
+    "note[59]": {
+        "lyrics": "couldn",
+        "pronunciation": "'kʊ",
+        "prosody": "strong"
+    },
+    "note[60]": {
+        "lyrics": "'t",
+        "pronunciation": "dənt",
+        "prosody": "weak"
+    },
+    "note[61]": {
+        "lyrics": "see",
+        "pronunciation": "'siː",
+        "prosody": "strong"
+    },
+    "note[62]": {
+        "lyrics": "the",
+        "pronunciation": "ðə",
+        "prosody": "weak"
+    },
+    "note[63]": {
+        "lyrics": "mo",
+        "pronunciation": "'moʊ",
+        "prosody": "strong"
+    },
+    "note[64]": {
+        "lyrics": "ment",
+        "pronunciation": "mənt",
+        "prosody": "weak"
+    },
+    "note[65]": {
+        "lyrics": "we",
+        "pronunciation": "'wiː",
+        "prosody": "strong"
+    },
+    "note[66]": {
+        "lyrics": "met",
+        "pronunciation": "'mɛt",
+        "prosody": "strong"
+    },
+    "note[67]": {
+        "lyrics": "up",
+        "pronunciation": "əp",
+        "prosody": "weak"
+    },
+    "note[68]": {
+        "lyrics": "did",
+        "pronunciation": "'dɪ",
+        "prosody": "strong"
+    },
+    "note[69]": {
+        "lyrics": "n't",
+        "pronunciation": "dənt",
+        "prosody": "weak"
+    },
+    "note[70]": {
+        "lyrics": "seem",
+        "pronunciation": "'siːm",
+        "prosody": "strong"
+    },
+    "note[71]": {
+        "lyrics": "cause",
+        "pronunciation": "'kɑz",
+        "prosody": "strong"
+    },
+    "note[72]": {
+        "lyrics": "we",
+        "pronunciation": "'wiː",
+        "prosody": "strong"
+    },
+    "note[73]": {
+        "lyrics": "knew",
+        "pronunciation": "'nuː",
+        "prosody": "strong"
+    },
+    "note[74]": {
+        "lyrics": "bet",
+        "pronunciation": "'bɛ",
+        "prosody": "strong"
+    },
+    "note[75]": {
+        "lyrics": "ter",
+        "pronunciation": "tɛː",
+        "prosody": "weak"
+    },
+    "note[76]": {
+        "lyrics": "cause",
+        "pronunciation": "'kɑz",
+        "prosody": "strong"
+    },
+    "note[77]": {
+        "lyrics": "all",
+        "pronunciation": "'ɔːl",
+        "prosody": "strong"
+    },
+    "note[78]": {
+        "lyrics": "i",
+        "pronunciation": "'aɪ",
+        "prosody": "strong"
+    },
+    "note[79]": {
+        "lyrics": "was",
+        "pronunciation": "wɑz",
+        "prosody": "weak"
+    },
+    "note[80]": {
+        "lyrics": "worth",
+        "pronunciation": "'wɛːθ",
+        "prosody": "strong"
+    },
+    "note[81]": {
+        "lyrics": "i",
+        "pronunciation": "'aɪ",
+        "prosody": "strong"
+    },
+    "note[82]": {
+        "lyrics": "can",
+        "pronunciation": "kæn",
+        "prosody": "weak"
+    },
+    "note[83]": {
+        "lyrics": "feel",
+        "pronunciation": "'fiːl",
+        "prosody": "strong"
+    },
+    "note[84]": {
+        "lyrics": "it",
+        "pronunciation": "'ɪt",
+        "prosody": "strong"
+    },
+    "note[85]": {
+        "lyrics": "in",
+        "pronunciation": "ɪn",
+        "prosody": "weak"
+    },
+    "note[86]": {
+        "lyrics": "side",
+        "pronunciation": "'saɪd",
+        "prosody": "strong"
+    },
+    "note[87]": {
+        "lyrics": "too",
+        "pronunciation": "'tuː",
+        "prosody": "strong"
+    },
+    "note[88]": {
+        "lyrics": "see",
+        "pronunciation": "'siː",
+        "prosody": "strong"
+    },
+    "note[89]": {
+        "lyrics": "your",
+        "pronunciation": "jɔːr",
+        "prosody": "weak"
+    },
+    "note[90]": {
+        "lyrics": "dreams",
+        "pronunciation": "'driːmz",
+        "prosody": "strong"
+    },
+    "note[91]": {
+        "lyrics": "come",
+        "pronunciation": "'kəm",
+        "prosody": "strong"
+    },
+    "note[92]": {
+        "lyrics": "through",
+        "pronunciation": "θruː",
+        "prosody": "weak"
+    },
+    "note[93]": {
+        "lyrics": "with",
+        "pronunciation": "wɪð",
+        "prosody": "weak"
+    },
+    "note[94]": {
+        "lyrics": "me",
+        "pronunciation": "miː",
+        "prosody": "weak"
+    },
+    "note[95]": {
+        "lyrics": "cause",
+        "pronunciation": "'kɑz",
+        "prosody": "strong"
+    },
+    "note[96]": {
+        "lyrics": "i'll",
+        "pronunciation": "aɪl",
+        "prosody": "weak"
+    },
+    "note[97]": {
+        "lyrics": "find",
+        "pronunciation": "'faɪnd",
+        "prosody": "strong"
+    },
+    "note[98]": {
+        "lyrics": "a",
+        "pronunciation": "eɪ",
+        "prosody": "weak"
+    },
+    "note[99]": {
+        "lyrics": "way",
+        "pronunciation": "'weɪ",
+        "prosody": "strong"
+    },
+    "note[100]": {
+        "lyrics": "out",
+        "pronunciation": "aʊt",
+        "prosody": "weak"
+    },
+    "note[101]": {
+        "lyrics": "i",
+        "pronunciation": "'aɪ",
+        "prosody": "strong"
+    },
+    "note[102]": {
+        "lyrics": "see",
+        "pronunciation": "'siː",
+        "prosody": "strong"
+    },
+    "note[103]": {
+        "lyrics": "cause",
+        "pronunciation": "'kɑz",
+        "prosody": "strong"
+    },
+    "note[104]": {
+        "lyrics": "the",
+        "pronunciation": "ðə",
+        "prosody": "weak"
+    },
+    "note[105]": {
+        "lyrics": "night",
+        "pronunciation": "'naɪt",
+        "prosody": "strong"
+    },
+    "note[106]": {
+        "lyrics": "is",
+        "pronunciation": "'ɪz",
+        "prosody": "strong"
+    },
+    "note[107]": {
+        "lyrics": "the",
+        "pronunciation": "ðə",
+        "prosody": "weak"
+    },
+    "note[108]": {
+        "lyrics": "night",
+        "pronunciation": "'naɪt",
+        "prosody": "strong"
+    },
+    "note[109]": {
+        "lyrics": "i've",
+        "pronunciation": "aɪv",
+        "prosody": "weak"
+    },
+    "note[110]": {
+        "lyrics": "met",
+        "pronunciation": "'mɛt",
+        "prosody": "strong"
+    },
+    "note[111]": {
+        "lyrics": "be",
+        "pronunciation": "bɪ",
+        "prosody": "weak"
+    },
+    "note[112]": {
+        "lyrics": "fore",
+        "pronunciation": "'fɔːr",
+        "prosody": "strong"
+    }
+}

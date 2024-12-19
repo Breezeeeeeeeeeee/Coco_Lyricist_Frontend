@@ -1,0 +1,805 @@
+{
+    "meta_data": {
+        "time_signature": {
+            "numerator": 3,
+            "denominator": 4
+        },
+        "time_per_beat": 0.5
+    },
+    "measure[0]": [
+        {
+            "key": "B/4",
+            "duration": "2r",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 2.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "B/4",
+            "duration": "4r",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[1]": [
+        {
+            "key": "E/4",
+            "duration": "2",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 2.0,
+            "lyrics": "in",
+            "prosody": "weak",
+            "pronunciation": "\u026an"
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "the",
+            "prosody": "weak",
+            "pronunciation": "\u00f0\u0259"
+        }
+    ],
+    "measure[2]": [
+        {
+            "key": "D/5",
+            "duration": "2",
+            "connect": true,
+            "marker": true,
+            "actual_play_time": 3.0,
+            "lyrics": "world",
+            "prosody": "strong",
+            "pronunciation": "'w\u025b\u02d0ld"
+        },
+        {
+            "key": "D/5",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[3]": [
+        {
+            "key": "C/5",
+            "duration": "2",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 2.0,
+            "lyrics": "in",
+            "prosody": "weak",
+            "pronunciation": "\u026an"
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "the",
+            "prosody": "weak",
+            "pronunciation": "\u00f0\u0259"
+        }
+    ],
+    "measure[4]": [
+        {
+            "key": "F/4",
+            "duration": "2",
+            "connect": true,
+            "marker": true,
+            "actual_play_time": 3.0,
+            "lyrics": "world",
+            "prosody": "strong",
+            "pronunciation": "'w\u025b\u02d0ld"
+        },
+        {
+            "key": "F/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[5]": [
+        {
+            "key": "E/4",
+            "duration": "2",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 2.0,
+            "lyrics": "there",
+            "prosody": "weak",
+            "pronunciation": "\u00f0\u025br"
+        },
+        {
+            "key": "E/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "are",
+            "prosody": "weak",
+            "pronunciation": "\u0251r"
+        }
+    ],
+    "measure[6]": [
+        {
+            "key": "E/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "times",
+            "prosody": "strong",
+            "pronunciation": "'ta\u026amz"
+        },
+        {
+            "key": "F/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "i'd",
+            "prosody": "weak",
+            "pronunciation": "a\u026ad"
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "like",
+            "prosody": "strong",
+            "pronunciation": "'la\u026ak"
+        }
+    ],
+    "measure[7]": [
+        {
+            "key": "A/4",
+            "duration": "2",
+            "connect": true,
+            "marker": null,
+            "actual_play_time": 3.0,
+            "lyrics": "to",
+            "prosody": "weak",
+            "pronunciation": "tu\u02d0"
+        },
+        {
+            "key": "A/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[8]": [
+        {
+            "key": "G/4",
+            "duration": "2",
+            "connect": true,
+            "marker": true,
+            "actual_play_time": 3.0,
+            "lyrics": "see",
+            "prosody": "strong",
+            "pronunciation": "'si\u02d0"
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[9]": [
+        {
+            "key": "E/4",
+            "duration": "2",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 2.0,
+            "lyrics": "in",
+            "prosody": "weak",
+            "pronunciation": "\u026an"
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "the",
+            "prosody": "weak",
+            "pronunciation": "\u00f0\u0259"
+        }
+    ],
+    "measure[10]": [
+        {
+            "key": "D/5",
+            "duration": "2",
+            "connect": true,
+            "marker": true,
+            "actual_play_time": 3.0,
+            "lyrics": "world",
+            "prosody": "strong",
+            "pronunciation": "'w\u025b\u02d0ld"
+        },
+        {
+            "key": "D/5",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[11]": [
+        {
+            "key": "C/5",
+            "duration": "2",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 2.0,
+            "lyrics": "in",
+            "prosody": "weak",
+            "pronunciation": "\u026an"
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "the",
+            "prosody": "weak",
+            "pronunciation": "\u00f0\u0259"
+        }
+    ],
+    "measure[12]": [
+        {
+            "key": "F/4",
+            "duration": "2",
+            "connect": true,
+            "marker": true,
+            "actual_play_time": 3.0,
+            "lyrics": "world",
+            "prosody": "strong",
+            "pronunciation": "'w\u025b\u02d0ld"
+        },
+        {
+            "key": "F/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[13]": [
+        {
+            "key": "E/4",
+            "duration": "2",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 2.0,
+            "lyrics": "there",
+            "prosody": "weak",
+            "pronunciation": "\u00f0\u025br"
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "are",
+            "prosody": "weak",
+            "pronunciation": "\u0251r"
+        }
+    ],
+    "measure[14]": [
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "times",
+            "prosody": "strong",
+            "pronunciation": "'ta\u026amz"
+        },
+        {
+            "key": "A/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "i'd",
+            "prosody": "weak",
+            "pronunciation": "a\u026ad"
+        },
+        {
+            "key": "B/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "like",
+            "prosody": "strong",
+            "pronunciation": "'la\u026ak"
+        }
+    ],
+    "measure[15]": [
+        {
+            "key": "C/5",
+            "duration": "2",
+            "connect": true,
+            "marker": null,
+            "actual_play_time": 3.0,
+            "lyrics": "to",
+            "prosody": "weak",
+            "pronunciation": "tu\u02d0"
+        },
+        {
+            "key": "C/5",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[16]": [
+        {
+            "key": "C/5",
+            "duration": "2",
+            "connect": true,
+            "marker": true,
+            "actual_play_time": 3.0,
+            "lyrics": "see",
+            "prosody": "strong",
+            "pronunciation": "'si\u02d0"
+        },
+        {
+            "key": "C/5",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[17]": [
+        {
+            "key": "D/5",
+            "duration": "8",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 0.5,
+            "lyrics": "i've",
+            "prosody": "weak",
+            "pronunciation": "a\u026av"
+        },
+        {
+            "key": "B/4",
+            "duration": "4r",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        },
+        {
+            "key": "G/4",
+            "duration": "8",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 0.5,
+            "lyrics": "got",
+            "prosody": "strong",
+            "pronunciation": "'g\u0251t"
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "the",
+            "prosody": "weak",
+            "pronunciation": "\u00f0\u0259"
+        }
+    ],
+    "measure[18]": [
+        {
+            "key": "B/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "time",
+            "prosody": "strong",
+            "pronunciation": "'ta\u026am"
+        },
+        {
+            "key": "A/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "e",
+            "prosody": "weak",
+            "pronunciation": "\u026a"
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "nough",
+            "prosody": "strong",
+            "pronunciation": "'n\u028cf"
+        }
+    ],
+    "measure[19]": [
+        {
+            "key": "E/4",
+            "duration": "2",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 2.0,
+            "lyrics": "to",
+            "prosody": "weak",
+            "pronunciation": "tu\u02d0"
+        },
+        {
+            "key": "G/4",
+            "duration": "8",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 0.5,
+            "lyrics": "make",
+            "prosody": "strong",
+            "pronunciation": "'me\u026ak"
+        },
+        {
+            "key": "G/4",
+            "duration": "8",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 0.5,
+            "lyrics": "be",
+            "prosody": "weak",
+            "pronunciation": "b\u026a"
+        }
+    ],
+    "measure[20]": [
+        {
+            "key": "C/5",
+            "duration": "2",
+            "connect": true,
+            "marker": true,
+            "actual_play_time": 3.0,
+            "lyrics": "lieve",
+            "prosody": "strong",
+            "pronunciation": "'li\u02d0v"
+        },
+        {
+            "key": "C/5",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[21]": [
+        {
+            "key": "A/4",
+            "duration": "2",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 2.0,
+            "lyrics": "to",
+            "prosody": "weak",
+            "pronunciation": "tu\u02d0"
+        },
+        {
+            "key": "C/5",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "be",
+            "prosody": "weak",
+            "pronunciation": "b\u026a"
+        }
+    ],
+    "measure[22]": [
+        {
+            "key": "D/5",
+            "duration": "2",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 2.0,
+            "lyrics": "lieve",
+            "prosody": "strong",
+            "pronunciation": "'li\u02d0v"
+        },
+        {
+            "key": "C/5",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "that",
+            "prosody": "strong",
+            "pronunciation": "'\u00f0\u00e6t"
+        }
+    ],
+    "measure[23]": [
+        {
+            "key": "B/4",
+            "duration": "2",
+            "connect": true,
+            "marker": null,
+            "actual_play_time": 3.0,
+            "lyrics": "you'll",
+            "prosody": "weak",
+            "pronunciation": "ju\u02d0l"
+        },
+        {
+            "key": "B/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[24]": [
+        {
+            "key": "G/4",
+            "duration": "2",
+            "connect": true,
+            "marker": true,
+            "actual_play_time": 3.0,
+            "lyrics": "see",
+            "prosody": "strong",
+            "pronunciation": "'si\u02d0"
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[25]": [
+        {
+            "key": "E/4",
+            "duration": "2",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 2.0,
+            "lyrics": "in",
+            "prosody": "weak",
+            "pronunciation": "\u026an"
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "the",
+            "prosody": "weak",
+            "pronunciation": "\u00f0\u0259"
+        }
+    ],
+    "measure[26]": [
+        {
+            "key": "D/5",
+            "duration": "2",
+            "connect": true,
+            "marker": true,
+            "actual_play_time": 3.0,
+            "lyrics": "world",
+            "prosody": "strong",
+            "pronunciation": "'w\u025b\u02d0ld"
+        },
+        {
+            "key": "D/5",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[27]": [
+        {
+            "key": "C/5",
+            "duration": "2",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 2.0,
+            "lyrics": "in",
+            "prosody": "weak",
+            "pronunciation": "\u026an"
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "the",
+            "prosody": "weak",
+            "pronunciation": "\u00f0\u0259"
+        }
+    ],
+    "measure[28]": [
+        {
+            "key": "F/4",
+            "duration": "2",
+            "connect": true,
+            "marker": true,
+            "actual_play_time": 3.0,
+            "lyrics": "dream",
+            "prosody": "strong",
+            "pronunciation": "'dri\u02d0m"
+        },
+        {
+            "key": "F/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[29]": [
+        {
+            "key": "E/4",
+            "duration": "2",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 2.0,
+            "lyrics": "there",
+            "prosody": "weak",
+            "pronunciation": "\u00f0\u025br"
+        },
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "are",
+            "prosody": "weak",
+            "pronunciation": "\u0251r"
+        }
+    ],
+    "measure[30]": [
+        {
+            "key": "G/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "times",
+            "prosody": "strong",
+            "pronunciation": "'ta\u026amz"
+        },
+        {
+            "key": "A/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "i'd",
+            "prosody": "weak",
+            "pronunciation": "a\u026ad"
+        },
+        {
+            "key": "B/4",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": "like",
+            "prosody": "strong",
+            "pronunciation": "'la\u026ak"
+        }
+    ],
+    "measure[31]": [
+        {
+            "key": "C/5",
+            "duration": "2",
+            "connect": true,
+            "marker": null,
+            "actual_play_time": 3.0,
+            "lyrics": "to",
+            "prosody": "weak",
+            "pronunciation": "tu\u02d0"
+        },
+        {
+            "key": "C/5",
+            "duration": "4",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ],
+    "measure[32]": [
+        {
+            "key": "C/5",
+            "duration": "2",
+            "connect": false,
+            "marker": true,
+            "actual_play_time": 2.0,
+            "lyrics": "know",
+            "prosody": "strong",
+            "pronunciation": "'no\u028a"
+        },
+        {
+            "key": "B/4",
+            "duration": "4r",
+            "connect": false,
+            "marker": null,
+            "actual_play_time": 1.0,
+            "lyrics": null,
+            "prosody": null,
+            "pronunciation": null
+        }
+    ]
+}
